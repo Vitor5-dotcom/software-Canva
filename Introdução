@@ -1,0 +1,56 @@
+ Implementação de Integrações – Smart Canvas
+ Sobre o Projeto
+
+O Smart Canvas é um software de gestão estratégica ágil desenvolvido pela EPTG Soluções Ágeis Ltda, startup brasileira da área de tecnologia da informação. O projeto foi iniciado em agosto de 2024 e atualmente conta com aproximadamente 500 espaços de trabalho ativos, com crescimento médio de 15 novos clientes por dia.
+
+A aplicação é multiplataforma e possui plano de expansão para novos mercados a partir de 2025.
+
+ Sobre a Empresa
+
+A EPTG Soluções Ágeis Ltda desenvolve soluções tecnológicas voltadas à gestão estratégica. Seu principal produto, o Smart Canvas, foi criado utilizando a plataforma Low Code Bubble, o que permite desenvolvimento ágil e escalável.
+
+Atualmente, a empresa busca formar e capacitar profissionais para atuar na evolução do sistema, especialmente na área de integrações.
+
+ Objetivo do Projeto
+
+O foco desta implementação é:
+
+Estruturar uma API organizada e documentada
+
+Permitir que outras plataformas se integrem facilmente ao Smart Canvas
+
+Garantir escalabilidade e padronização das integrações
+
+ Integrações Planejadas
+
+O projeto prevê integração com as seguintes plataformas:
+
+Slack
+
+Microsoft Teams
+
+Google Agenda
+
+Google Drive
+
+Conta Azul
+
+RD Station
+
+GitHub
+
+ Tecnologias Utilizadas
+
+Plataforma Low Code: Bubble
+
+API REST
+
+Webhooks
+
+Integrações via OAuth 2.0 (quando aplicável)
+
+ Status
+
+ Em desenvolvimento – Estruturação e documentação da API para futuras integrações.
+
+Caso tenha interesse em contribuir ou integrar sua plataforma ao Smart Canvas, entre em contato.
